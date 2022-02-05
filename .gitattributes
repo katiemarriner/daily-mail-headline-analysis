@@ -1,2 +1,1 @@
 complete_headline_list/*.csv filter=lfs diff=lfs merge=lfs -text
-complete_headline_list/2018-11-13[[:space:]]10:29:15[[:space:]]to[[:space:]]2022-02-05[[:space:]]22:32:44.csv filter=lfs diff=lfs merge=lfs -text
